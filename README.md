@@ -1,6 +1,8 @@
 ## Laravel 8.x Livewire with Pagination Database Search 
 `Speed Proof of Concept`
 
+<img src="https://www.dropbox.com/s/o8yi5cudmuzxoju/search.png?dl=0" alt="Screenshot"/>
+
 ## About
 
 Tiny project with Laravel + Livewire with Pagination database record search test, to see how livewire/laravel deals with <code>1.000.000</code> database records search. This is made for all type of hosting, shared ou dedicated and you can change DB engine in the .env file, default is <code>MySQL</code>.
