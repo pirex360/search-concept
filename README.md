@@ -1,7 +1,7 @@
 ## Laravel 8.x Livewire with Pagination Database Search 
 `Speed Proof of Concept`
 
-<img src="https://www.dropbox.com/s/o8yi5cudmuzxoju/search.png?dl=0" alt="Screenshot"/>
+<img src="https://www.dropbox.com/s/o8yi5cudmuzxoju/search.png?raw=1" alt="Screenshot"/>
 
 ## About
 
